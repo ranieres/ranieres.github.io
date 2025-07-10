@@ -1,0 +1,12 @@
+.card-custom {
+    border: none;
+    text-align: center;
+  }
+  .card-custom img {
+          /* Tamaño más pequeño */
+    height: 50px;
+    object-fit: cover;
+    border-radius: 80%;
+    margin: 0 auto;
+  }
+
